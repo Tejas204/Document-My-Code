@@ -5,3 +5,8 @@ This repository contains the code for a VS code extension that helps you generat
 
 ## MVP
 An extension, using Gemini/ChatGPT or other AI tools to document your code in a presentable format
+
+## Proposed Features
+1. Document code opened in current file
+2. Document code in the entire directory
+3. Download a word or PDF file for the documentation
